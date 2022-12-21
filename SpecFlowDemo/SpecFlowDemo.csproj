@@ -217,6 +217,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Constants\browser.json" />
+    <None Include="Features\MobileLogin.feature" />
     <None Include="Features\wstest.feature" />
     <None Include="Scripts\jquery-2.1.1.min.map" />
     <None Include="manifest.json" />
