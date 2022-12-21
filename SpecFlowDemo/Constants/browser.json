@@ -1,0 +1,16 @@
+﻿[
+  {
+    "key": "googleArama",
+    "androidType": "id",
+    "androidValue": "com.android.chrome:id/search_box_text",
+    "iosType": "xpath",
+    "iosValue": "test"
+  },
+  {
+    "key": "kampanyalar2",
+    "androidType": "xpath",
+    "androidValue": "and22",
+    "iosType": "xpath",
+    "iosValue": "test22"
+  }
+]

@@ -1,0 +1,17 @@
+{
+
+  "bindingCulture": { "language": "tr-TR" },
+
+  "language": { "feature": "tr-TR" },
+
+  "plugins": [],
+
+  "generator": {
+
+    "-allowDebugGeneratedFiles": "true",
+
+    "-self-closing": "true"
+
+  }
+
+}
